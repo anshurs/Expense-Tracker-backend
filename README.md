@@ -29,6 +29,8 @@ The backend will be available at http://localhost:8080.
 
 ## Usage
 1.Add an Expense: Add new expenses, including the date, amount, and description.
+
 2.Update an Expense: To update its details.
+
 3.Delete an Expense: To remove it.
 
