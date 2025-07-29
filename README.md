@@ -11,8 +11,8 @@ Database: PostgreSQL
 ## Installation
 
 Prerequisites
-Java: Ensure Java is installed for running Spring Boot. You can download it from java.com.
-PostgreSQL: Ensure PostgreSQL is installed and running. You can download it from postgresql.org.
+1.Java: Ensure Java is installed for running Spring Boot. You can download it from java.com.
+2.PostgreSQL: Ensure PostgreSQL is installed and running. You can download it from postgresql.org.
 
 ## Backend
 
