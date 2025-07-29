@@ -28,7 +28,7 @@ cd Expense-Tracker/backend
 The backend will be available at http://localhost:8080.
 
 ## Usage
-Add an Expense: Add new expenses, including the date, amount, and description.
-Update an Expense: To update its details.
-Delete an Expense: To remove it.
+1.Add an Expense: Add new expenses, including the date, amount, and description.
+2.Update an Expense: To update its details.
+3.Delete an Expense: To remove it.
 
