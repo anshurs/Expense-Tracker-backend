@@ -2,7 +2,7 @@
 This is only the backend of  Expense Tracker which allows users add, update, and delete expenses, view expense reports.  It is built using Spring Boot with PostgreSQL.
 
 ## Features
-Expense Tracking: Add, update, and delete expenses.
+Expense Tracking: Add, view, update and delete expenses.
 
 ## Technologies Used
 Backend: Spring Boot
@@ -11,9 +11,10 @@ Database: PostgreSQL
 ## Installation
 
 ## Prerequisites
-1.Java: Ensure Java is installed for running Spring Boot. You can download it from java.com.
-
-2.PostgreSQL: Ensure PostgreSQL is installed and running. You can download it from postgresql.org.
+1 Java: Ensure Java is installed for running Spring Boot. You can download it from java.com.
+2 PostgreSQL: Ensure PostgreSQL is installed and running. You can download it from postgresql.org.
+3 ORM: Spring Data JPA (Hibernate)
+4 Testing: Spring Boot Test (JUnit)
 
 ## Backend
 
